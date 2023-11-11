@@ -1,3 +1,3 @@
 # MusTest
-console.log("Hello Fullstack!")
-this is a! yay!
+console.log("To Improve is to change")
+
