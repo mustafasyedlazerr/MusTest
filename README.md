@@ -1,2 +1,3 @@
 # MusTest
-"THIS IS B"
+console.log("There is nothing permanent, except change")
+
